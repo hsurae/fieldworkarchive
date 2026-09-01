@@ -5,15 +5,15 @@ permalink: /
 
 <span class="label">STUDENT FIELD ARCHIVE</span>
 
-# 田野不是一個地方，而是一種注意的方法。
+# 田野是一種注意的訓練。
 
-<p class="lead">這裡記錄每週的感知練習、閱讀摩擦、製作測試與尚未完成的問題。它不是成功作品的展示櫃，而是創作如何逐漸形成的證據。</p>
+<p class="lead">這裡記錄每週的感知練習、閱讀筆記、製作測試與尚未完成的問題。</p>
 
 <div class="week-grid">
   <a class="week-card" href="{{ '/weeks/week-01/' | relative_url }}"><strong>01</strong><span>田野從哪裡開始？</span></a>
-  <a class="week-card" href="{{ '/weeks/week-02/' | relative_url }}"><strong>02</strong><span>證據如何成立？</span></a>
-  <a class="week-card" href="{{ '/weeks/week-03/' | relative_url }}"><strong>03</strong><span>戶外行走</span></a>
-  <a class="week-card" href="{{ '/weeks/week-04/' | relative_url }}"><strong>04</strong><span>轉譯與認識</span></a>
+  <a class="week-card" href="{{ '/weeks/week-02/' | relative_url }}"><strong>02</strong><span>位置與線索</span></a>
+  <a class="week-card" href="{{ '/weeks/week-03/' | relative_url }}"><strong>03</strong><span>路徑、天氣與觸覺</span></a>
+  <a class="week-card" href="{{ '/weeks/week-04/' | relative_url }}"><strong>04</strong><span>生命如何成為證據？</span></a>
   <a class="week-card" href="{{ '/weeks/week-05/' | relative_url }}"><strong>05</strong><span>感測器與資料</span></a>
   <a class="week-card" href="{{ '/weeks/week-06/' | relative_url }}"><strong>06</strong><span>物質與慢暴力</span></a>
   <a class="week-card" href="{{ '/weeks/week-07/' | relative_url }}"><strong>07</strong><span>期中製作實驗室</span></a>
