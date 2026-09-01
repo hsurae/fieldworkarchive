@@ -5,8 +5,7 @@ permalink: /
 
 <span class="label">STUDENT FIELD ARCHIVE</span>
 
-# 田野
-# 是一種注意力的訓練。
+<span style="font-size: 20px;"> # 田野 # 是一種注意力的訓練。</span>
 
 <p class="lead">這裡記錄每週的感知練習、閱讀筆記、製作測試與尚未完成的問題。</p>
 
