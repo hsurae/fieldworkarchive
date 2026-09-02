@@ -1,8 +1,7 @@
 ---
-
 title: "W09｜期中發表"
 permalink: /weeks/week-09/
---------------------------
+---
 
 <span class="label">MIDTERM PRESENTATION</span>
 
