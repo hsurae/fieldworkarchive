@@ -1,11 +1,11 @@
 ---
-title: "W04｜生命如何成為證據？"
+title: "W04｜物質與慢暴力？"
 permalink: /weeks/week-04/
 ---
 
 <span class="label">WEEK 04</span>
 
-# 生命如何成為證據？
+# 物質與慢暴力
 
 > 請保留具體的現場、材料、語句或身體感受。
 
@@ -25,4 +25,5 @@ permalink: /weeks/week-04/
 ## NEXT MOVE｜下一步
 
 如果把這個發現轉化成工具、介面、規則、身體技術或作品，你下一步會測試什麼？
+
 
