@@ -13,9 +13,9 @@ permalink: /
   <a class="week-card" href="{{ '/weeks/week-01/' | relative_url }}"><strong>01</strong><span>田野從哪裡開始？</span></a>
   <a class="week-card" href="{{ '/weeks/week-02/' | relative_url }}"><strong>02</strong><span>位置與線索</span></a>
   <a class="week-card" href="{{ '/weeks/week-03/' | relative_url }}"><strong>03</strong><span>路徑、天氣與觸覺</span></a>
-  <a class="week-card" href="{{ '/weeks/week-04/' | relative_url }}"><strong>04</strong><span>生命如何成為證據？</span></a>
+  <a class="week-card" href="{{ '/weeks/week-04/' | relative_url }}"><strong>04</strong><span>物質與慢暴力</span></a>
   <a class="week-card" href="{{ '/weeks/week-05/' | relative_url }}"><strong>05</strong><span>感測器與資料</span></a>
-  <a class="week-card" href="{{ '/weeks/week-06/' | relative_url }}"><strong>06</strong><span>物質與慢暴力</span></a>
+  <a class="week-card" href="{{ '/weeks/week-06/' | relative_url }}"><strong>06</strong><span>生命如何成為證據？</span></a>
   <a class="week-card" href="{{ '/weeks/week-07/' | relative_url }}"><strong>07</strong><span>期中製作實驗室</span></a>
   <a class="week-card" href="{{ '/weeks/week-08/' | relative_url }}"><strong>08</strong><span>準備日</span></a>
   <a class="week-card" href="{{ '/weeks/week-09/' | relative_url }}"><strong>09</strong><span>期中發表</span></a>
