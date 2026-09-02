@@ -1,11 +1,11 @@
 ---
-title: "W06｜物質與慢暴力"
+title: "W06｜生命如何成為證據？"
 permalink: /weeks/week-06/
 ---
 
 <span class="label">WEEK 06</span>
 
-# 物質與慢暴力
+# 生命如何成為證據？
 
 > 請保留具體的現場、材料、語句或身體感受。
 
